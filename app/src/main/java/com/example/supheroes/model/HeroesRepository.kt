@@ -1,5 +1,7 @@
 package com.example.supheroes.model
 
+import com.example.supheroes.R
+
 object HeroesRepository {
     val heroes = listOf(
         Hero(
